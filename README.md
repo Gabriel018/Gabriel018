@@ -1,7 +1,7 @@
-### Ola,meu nome e Gabriel 👋
-### 🔭 Eu trabalho com Desenvolvimento
+### Ola,meu nome e Gabriel
+### 🔭 Eu trabalho com Desenvolvimento Web/Desktop/Mobile
 
-### 🌱 Eu estudo Python
+### 🌱 Eu estudo Python e suas tecnologias
 
 ### 📫 como entrar em contato: duke.comandos@gmail.com
 <div align="center">
