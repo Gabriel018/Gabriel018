@@ -20,5 +20,5 @@
  <img align="center" alt="duke-CSS" height="32" width="62" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  </div>
  
-  <img height="180em" src="https://starchart.cc/Gabriel018/Gabriel018.svg"/>
-<img src="https://visitor-badges.glitch.me?username=Gabriel018E&repo=Gabriel018" alt="Visitor Badge" />
+ 
+<img src="https://visitor-badges.glitch.me?username=Gabriel018E&repo=Gabriel018" alt="Visitante" />
