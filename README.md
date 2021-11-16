@@ -1,9 +1,9 @@
-### Ola, 👋
-### 🔭 Eu trabalho com Python
+### Ola,meu nome e Gabriel 👋
+### 🔭 Eu trabalho com Desenvolvimento
 
-### 🌱 Eu estudo Python/
+### 🌱 Eu estudo Python
 
-### 📫 como falar comigo: duke.comandos@gmail.com
+### 📫 como entrar em contato: duke.comandos@gmail.com
 <div align="center">
   <a href="https://github.com/Gabriel018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
