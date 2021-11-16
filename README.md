@@ -3,7 +3,7 @@
 
 ### 🌱 Eu estudo Python e suas tecnologias
 
-<img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:"> 
+<img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:"> duke.comandos@gmail.com
 
 <div align="center">
  
