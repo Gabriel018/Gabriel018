@@ -21,4 +21,4 @@
  </div>
  
  
-<img src="https://visitor-badges.glitch.me?username=Gabriel018E&repo=Gabriel018" alt="Visitante" />
+<img alt="Visitante" height="30" width="70" src="https://visitor-badges.glitch.me?username=Gabriel018E&repo=Gabriel018" alt="Visitante" height="30" width="70" />
