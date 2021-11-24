@@ -1,9 +1,15 @@
-### Ola,meu nome e Gabriel
+### Ola,meu nome e Gabriel                                  
 #### 🔭 Eu trabalho com Desenvolvimento Web/Desktop/Mobile
 
-
-
 #### 🌱 Eu estudo Python e suas tecnologias
+
+___
+### Hello my Name Is Gabriel
+#### 🔭 I work with Web/Desktop/Mobile Development
+#### 🌱 I study Python and its technologies
+
+
+
 
 <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:"> duke.comandos@gmail.com
 
