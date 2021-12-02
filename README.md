@@ -28,5 +28,8 @@ ___
  <img align="center" alt="duke-CSS" height="32" width="72" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  </div>
  
- 
-<img alt="Visitante" height="30" width="80" src="https://visitor-badges.glitch.me?username=Gabriel018E&repo=Gabriel018"  />
+ <div>  
+  <h3 align="left"> Visitantes </h3>
+  <img align="left" src="https://profile-counter.glitch.me/Gabriel018/count.svg">
+   </div> 
+
