@@ -9,7 +9,7 @@ ___
 #### 🌱 I study Python and its technologies
 
  ### This repository has been translated into other languages, click on the flag below corresponding to your country of origin: 
-- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/Gabriel018/Gabriel018/tree/master/Localization/English)  [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/Gabriel018/tree/master/Localization/French)
+- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/Gabriel018/Gabriel018/Localization/English)  [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/Gabriel018/Localization/French)
 - [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/Gabriel018/hbisneto/tree/master/Localization/German)
 - [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/Gabriel018/hbisneto/tree/master/Localization/Spanish)
 
