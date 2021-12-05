@@ -11,10 +11,10 @@ ___
 
 This repository has been translated into other languages.
 
-- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/English)
-- [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/French)
-- [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/German)
-- [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/hbisneto/hbisneto/tree/master/Localization/Spanish)
+- [<font size="10"> <span>&#X1F1FA;&#X1F1F2;</span> - English</font>](https://github.com/Gabriel018/Gabriel018/tree/master/Localization/English)
+- [<font size="10"> <span>&#X1F1EB;&#X1F1F7;</span> - French</font>](https://github.com/Gabriel018/Gabriel018/tree/master/Localization/French)
+- [<font size="10"> <span>&#X1F1E9;&#X1F1EA;</span> - German</font>](https://github.com/Gabriel018/Gabriel018/tree/master/Localization/German)
+- [<font size="10"> <span>&#X1F1EA;&#X1F1F8;</span> - Spanish</font>](https://github.com/Gabriel018/Gabriel018/tree/master/Localization/Spanish)
 
 <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:">duke.comandos@gmail.com         
 <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
