@@ -1,22 +1,18 @@
 
 
-
+<div align="left">
 <h1>Ola,meu nome e Gabriel  </h2>
-<img align="right" alt="duke-Python"  width="38%" src="https://user-images.githubusercontent.com/42377719/147281820-8aaace6d-c31d-462d-b5be-aa6282f0702c.gif">
+<img align="right" alt="duke-Python"  width="48%" src="https://user-images.githubusercontent.com/42377719/147290178-aeb3f84d-086a-42ed-8e93-2d85b291e5be.gif">
+
 <h3>Eu trabalho com Desenvolvimento Web/Desktop/Mobile</h3
-
-<h2> 🌱 Eu estudo Python e suas tecnologias </h2>
-
-
-
-
-___
-
-<div align="center">
- 
+<h3> 🌱 Eu estudo Python e suas tecnologias </h3>
+</div>
+ <br>
+ <br>
+<div>
   <a href="https://github.com/Gabriel018">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel018&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel018&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <img align="center" alt="duke-Python" height="32" width="72" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
