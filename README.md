@@ -4,15 +4,6 @@
 #### 🌱 Eu estudo Python e suas tecnologias
 
 ___
-### Hello my Name Is Gabriel
-#### 🔭 I work with Web/Desktop/Mobile Development
-#### 🌱 I study Python and its technologies
-
-
-
-<img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:">duke.comandos@gmail.com         
-<img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
- https://www.instagram.com/gba.duke/
 
 <div align="center">
  
@@ -33,4 +24,6 @@ ___
   <h3 align="left"> Visitantes </h3>
   <img align="left" src="https://profile-counter.glitch.me/Gabriel018/count.svg">
    </div> 
-
+<br>
+ <br>
+<img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:"> duke.comandos@gmail.com <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> https://www.instagram.com/gba.duke/  <br>       
