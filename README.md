@@ -1,28 +1,54 @@
 
 
 <div align="left">
+ <img align="right" alt="duke-Python"  width="40%" src="https://user-images.githubusercontent.com/42377719/147290178-aeb3f84d-086a-42ed-8e93-2d85b291e5be.gif">
 <h1>Ola,meu nome e Gabriel  </h2>
-<img align="right" alt="duke-Python"  width="48%" src="https://user-images.githubusercontent.com/42377719/147290178-aeb3f84d-086a-42ed-8e93-2d85b291e5be.gif">
 
-<h3>Eu trabalho com Desenvolvimento Web/Desktop/Mobile</h3
-<h3> 🌱 Eu estudo Python e suas tecnologias </h3>
+<h3>Eu trabalho com Desenvolvimento Web/Desktop/Mobile 
+ Eu estudo Python e suas tecnologias
+ </h3
 </div>
- <br>
- <br>
+
+ 🧐 Sobre mim:
+Eu
+Sou um versátil e me adapto facilmente dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e aproveitá-las para criar coisas interessantes 🛠️
+ 
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+
+ 
+### 🔨 Linguagens e Ferrramentas:
+
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+
+
+
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+ 
+
+
 <div>
   <a href="https://github.com/Gabriel018">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel018&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img align="center" alt="duke-Python" height="32" width="72" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="duke-Php" height="32" width="72" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-<img align="center" alt="duke-Php" height="32" width="72" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
-<img align="center" alt="duke-HTML" height="32" width="72" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-  <div align="center">
-   
- <img align="center" alt="duke-CSS" height="32" width="72" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  </div>
  
  <div>  
