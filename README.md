@@ -9,11 +9,12 @@
  </h3
 </div>
 
- 🧐 Sobre mim:
-Eu
-Sou um versátil e me adapto facilmente dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e aproveitá-las para criar coisas interessantes 🛠️
+### 🧐 Sobre mim:
+### Sou um versátil e me adapto facilmente dependendo do que o projeto exige. Adoro explorar novas tecnologias 💻 e aproveitá-las para criar coisas interessantes 🛠️
 
-
+<br>
+ <br><br><br><br>
+ 
  
 ### 🔨 Linguagens e Ferrramentas:
 
