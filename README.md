@@ -1,9 +1,9 @@
 
 
-<div align="left">
- <img align="right" alt="duke-Python"  width="60%" src="https://user-images.githubusercontent.com/42377719/147290178-aeb3f84d-086a-42ed-8e93-2d85b291e5be.gif">
+<div align='right'>
+  <img   alt="duke-Python"  width="60%" src="https://user-images.githubusercontent.com/42377719/147290178-aeb3f84d-086a-42ed-8e93-2d85b291e5be.gif">
+ </div>
 <h1>Ola,meu nome e Gabriel  </h2>
-
 <h3>Eu trabalho com Desenvolvimento Web/Desktop/Mobile 
  Eu estudo Python e suas tecnologias
  </h3
