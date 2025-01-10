@@ -37,7 +37,7 @@
  <br>
 <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white:"><a href='mailto:duke.comandos@gmail.com'</a> duke.comandos@gmail.com <img align="center" alt="duke-gmail" height="20" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> https://www.instagram.com/gba.duke/  <br> 
  <br>
-<a href='https://gabriel018.github.io/'> <img align="center" height="40" src='https://user-images.githubusercontent.com/42377719/168672772-8390345b-649b-4ad3-8bba-c1524332ffcf.png'> Web Portifolio</a>
+<--! <a href='https://gabriel018.github.io/'> <img align="center" height="40" src='https://user-images.githubusercontent.com/42377719/168672772-8390345b-649b-4ad3-8bba-c1524332ffcf.png'> Web Portifolio</a> -->
 
  
  
